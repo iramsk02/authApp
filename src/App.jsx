@@ -8,6 +8,8 @@ import Signin from './components/Signin'
 // import Contact from './components/Signin'
 // import About from './components/About'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { HashRouter } from "react-router-dom";
+
 
 function App() {
   const router = createBrowserRouter([
