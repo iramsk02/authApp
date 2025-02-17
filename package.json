@@ -1,7 +1,7 @@
 {
   "name": "authentication-react",
   "private": true,
-  "homepage": "https://iramsk02.github.io/authApp",
+  "homepage": "https://iramsk02.github.io/authApp/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
